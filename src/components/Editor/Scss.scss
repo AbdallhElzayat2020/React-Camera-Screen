@@ -1,0 +1,106 @@
+// .Preview {
+//   width: 100%;
+//   min-height: 100vh;
+//   height: fit-content;
+//   display: grid;
+//   grid-template-columns: 200px 1fr;
+
+//   .SideBar {
+//     width: 100%;
+//     height: 100%;
+//     background-color: rgb(221, 223, 228);
+//     padding-top: 20px;
+//     display: flex;
+//     align-items: center;
+//     flex-direction: column;
+//     margin: 0;
+//     button {
+//       width: 100%;
+//       border: none;
+//       padding: 10px;
+//       background-color: rgb(41, 126, 224);
+//       color: white;
+//     }
+//     ul {
+//       width: 100%;
+//       display: flex;
+//       align-items: center;
+//       justify-content: center;
+//       padding: 0;
+//       margin: 0;
+//       &:hover {
+//         background-color: rgb(204, 208, 211);
+//         cursor: pointer;
+//       }
+//       li {
+//         padding: 0;
+//         margin: 0;
+//         width: 100%;
+//         text-align: center;
+//         margin-top: 10px;
+//         margin-bottom: 20px;
+//         white-space: pre-wrap;
+//         overflow-wrap: break-word;
+//         padding: 10px;
+//       }
+//     }
+//   }
+//   .view {
+//     width: 100%;
+//     margin: 20px auto;
+//     padding: 10px 50px;
+//     display: flex;
+//     flex-direction: column;
+//     height: fit-content;
+//     * {
+//       margin: 5px 0;
+//     }
+//     .Input {
+//       width: 80%;
+//       max-width: 700px;
+//       input {
+//         width: 100%;
+//         padding: 10px;
+//         border: none;
+//         border: 1px solid rgb(119, 119, 119);
+//         border-radius: 5px;
+//         outline: none;
+//       }
+//     }
+//   }
+// }
+// .UploadImg {
+//   position: relative;
+//   width: 80%;
+//   max-width: 300px;
+//   height: 200px;
+//   height: fit-content;
+//   .IMGS {
+//     position: relative;
+//     #btn {
+//       width: 40px;
+//       height: 40px;
+//       position: absolute;
+//       top: 0;
+//       left: -45px;
+//       background-color: rgb(248, 37, 37);
+//       border: none;
+//       border-radius: 50%;
+//       i {
+//         color: white;
+//         margin: auto;
+//       }
+//     }
+//   }
+//   img {
+//     width: 100%;
+//     height: 100%;
+//     object-fit: cover;
+//     border: 1px solid rgba(0, 0, 0, 0.26);
+//   }
+// }
+// .BTNS {
+//   position: relative;
+//   display: flex;
+//   gap: 10px;
+// }
